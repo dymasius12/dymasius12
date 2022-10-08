@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am currently learning Python for Data Science Project
+Hi! I am currently learning Python for Data Science Project. I am experienced software engineer and now aiming to be a Data Scientist. I use Django, Flask, and Streamlit for the web app framework. I am interested to join any open source project or any project that you are believing in. 
 
 
 ## 🌐 Socials:
